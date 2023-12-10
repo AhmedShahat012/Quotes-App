@@ -1,0 +1,14 @@
+div button{
+    background-color: blue;
+
+}
+div button:hover{
+    background-color: green;
+}
+div h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+div p{
+    font-size: 35px;
+}
